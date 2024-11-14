@@ -1,0 +1,60 @@
+Name: Marketplace Grab' N Go
+Description: The Marketplace Grab 'N Go has delicious snacks, hot and cold beverages, pastries and candies. 
+Location: Jerome Richfield Hall
+Hours: 
+Contact: Samantha Thuotte
+samantha.thuotte@compass-usa.com
+(818) 744-5522
+
+Name: Freudian Sip
+Description: The Brand
+The Freudian Sip® brand was developed at California State University, Northridge and quickly redefined the campus hang-out space by combining fun imagery with fresh food and beverages in a welcoming, comfortable environment for students, faculty and staff. As each of CSUN’s six locations flourished, it became obvious that a Freudian Sip coffee house could also enhance and invigorate non-campus communities and retail environments with equal success.
+The Beverages
+While Freudian Sip coffee houses easily distinguish themselves from the impersonal mega-corporate brands, the key to attracting first-time and loyal customers starts with the outstanding quality of our beverages (featuring Groundworks® organic coffee and Numi® organic tea), as well as the friendly, well-trained baristas who serve them. As our menu expanded to include blended beverages, juices, ice cream, baked goods and lunch items, our customer base grew accordingly.
+The Experience
+In addition to delicious beverages and other menu items to be enjoyed within the coffee house, most Freudian Sip locations offers a line of high-quality branded merchandise—including mugs, shirts and gift bags—to reflect the fun Freudian experience and help spread the word. Freudian Sip products are also available through CSUN Dining to Go, so customers can pre-order coffee and pastries for office parties, meetings and special events.
+
+Name: Geronimo's
+Description:  Geronimo’s menu includes a variety of entrees and sides to ensure a balanced dining experience. Daily menu items include a variety of proteins, seasonal vegetables, starches, deli sandwiches, burgers, pizza, pasta, Mexican food, a salad bar, and sweet treats.  Every Wednesday there is an International menu as well as different daily entrees and soup. Breakfast served daily.	
+		Has all you can eat. Has outdoor seating. Doesn't accept reservations
+Location: Student Housing on the corner of Zelzah and Lassen.
+Hours: Monday to Friday 7AM - 10:30PM
+	Saturday and Sunday 8AM - 9PM
+Contact: Unavailable
+
+Name: Matador Mercado
+Description:When you need it here and now, we make sure you can get it here and now! Our convenience stores are located throughout campus. For your convenience!
+Location: Arbor Grill Store, Campus Store Complex, University Student Union, Sierra Center, Student Housing
+Hours: Not available yet. Closed for summer
+Contact: Annette Young(Housing) - 818 677 5620, Leslie Escobar(CSC) - 818 677 3394, Rosario Jaimes(Sierra Center) - 818 677 7771, Paris Riegert(USU) - 818 677 5029
+
+Name: Shake Smart
+Description: Shake Smart is a health-focused food and beverage company that offers a variety of nutritious and convenient meal options, including protein shakes, smoothies, acai bowls, and healthy snacks. Founded with the aim of providing accessible and balanced nutrition, Shake Smart caters to fitness enthusiasts, busy professionals, and anyone seeking a healthy lifestyle. Their menu is designed to be both delicious and nutritious, featuring fresh ingredients and customizable options to meet diverse dietary needs and preferences.
+Location: Located directly outside the Student Recreation Center
+Hours: Monday - Friday 9AM - 7PM and then Saturday and Sunday 10AM - 6PM
+Contact: The website to order is https://self-ordering.shakesmart.com/order/venue/5/menus
+
+Name: Subway
+Description:Subway is a globally recognized fast-food restaurant chain known for its customizable submarine sandwiches (subs) and salads. Founded in 1965, Subway offers a wide variety of fresh ingredients, allowing customers to build their sandwiches to their liking. The menu includes options such as cold cuts, grilled meats, vegetarian choices, and various toppings and sauces. Subway emphasizes healthy eating with selections like whole grain bread and low-fat options. The chain operates thousands of locations worldwide, making it one of the largest and most accessible quick-service restaurants.
+Location: Located in the USU
+Hours: Monday - Friday 7AM - 10PM, Saturday 8AM - 9PM, Sunday 10AM - 9PM
+
+Name: Panda Express
+Description: Panda Express is a popular fast-food chain specializing in American Chinese cuisine. Founded in 1983, it offers a variety of dishes such as Orange Chicken, Beijing Beef, and Kung Pao Chicken. Known for its flavorful and convenient meals, Panda Express has locations worldwide, providing quick and tasty dining options.
+Location: Located in the Campus Store Complex
+Hours: Monday -Friday 9:30AM - 10PM, Saturday 10AM - 10PM, Sunday, 10AM - 10PM, Takeout 10AM - 10PM
+
+Name: Fry Shack
+Description: Fry Shack is a fast-food chain specializing in gourmet fries and creative toppings. Known for its crispy, flavorful fries, Fry Shack offers a variety of dipping sauces and unique combinations, making it a go-to spot for fry enthusiasts looking for a quick and delicious snack.
+Location: Santa Susana Hall
+Hours: Monday - Friday 11AM - 5PM
+
+Name: El Pollo Loco
+Description: El Pollo Loco is a fast-food chain known for its signature flame-grilled chicken marinated in a blend of herbs, spices, and citrus. Founded in 1980, it offers a menu that includes burritos, tacos, and bowls, featuring fresh, Mexican-inspired ingredients. El Pollo Loco emphasizes healthy, flavorful meals with a focus on grilled rather than fried foods.
+Location: CSUN Campus Store
+Hours: Monday - Friday 10AM - 6PM, Saturday and Sunday 7-7:30AM
+
+Name: The Arbor Grill
+Descripion:The Arbor Grill at CSUN is a popular dining spot located near Sequoia Hall and the Matador Bookstore Complex. It offers a variety of freshly grilled items such as burgers, sandwiches, and salads. Known for its convenient location and tasty options, Arbor Grill provides a casual and inviting atmosphere for students, faculty, and visitors to enjoy a meal or a quick bite on campus.
+Location: The southwest corner of the campus, adjacent to the Sequoia Hall and close to the Matador Bookstore Complex
+Hours: Monday - Friday 7:30AM - 2PM

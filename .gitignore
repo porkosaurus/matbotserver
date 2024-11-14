@@ -1,0 +1,8 @@
+venv/
+.env
+__pycache__
+branches/__pycache__
+.env
+query_classifier_model.pth
+department_classifier_model.pth
+myenv

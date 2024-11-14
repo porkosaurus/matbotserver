@@ -1,0 +1,12 @@
+runtime: python312
+env: standard  
+
+env_variables:
+  GOOGLE_APPLICATION_CREDENTIALS_JSON: '{"type": "service_account", "project_id": "skilful-firefly-419005", ...}'
+
+entrypoint: gunicorn -b :$PORT main:app --timeout 75
+
+handlers:
+- url: /.*
+  script: auto
+

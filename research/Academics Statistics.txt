@@ -1,0 +1,25 @@
+
+
+Share
+
+
+You said:
+CSUN has nine colleges and offers nearly 150 undergraduate majors and options, over 100 master's programs and options, 3 professional doctoral degrees, nearly 30 teaching credential pathways and nearly 30 certificate programs for mid-career professionals to advance in their fields.
+
+Artists, inventors, medical practitioners, musicians, entrepreneurs, teachers, scholars, and scientists have emerged from our doors ready to make an impact on the world.
+
+CSUN cinema and television arts students working in the studio
+Find Your Major. Build Your Future.
+Whether you've always known the career you wanted or you're still exploring your options, CSUN can help guide you along the right path. Our rigorous academic programs are designed to help students build successful careers and become leaders in their communities. Use the program finder to explore possible majors and start earning the degree you need for the future you want.
+
+By the Numbers
+#2
+in the nation in awarding bachelor’s degrees to Hispanic students, according to the Hispanic Outlook on Education magazine.
+
+Top 20
+programs in the west for Civil Engineering, Computer Engineering, Electrical Engineering and Mechanical Engineering by U.S. News & World Report.
+
+Top 25
+CSUN named one of the Top 25 film schools in the nation by The Hollywood Reporter.
+
+I need 100 questions on this here, this is for an ai classification model that i am developing, the structure is in tuples, with the first part being the question and the second part being the category so what i want you to is generate unique questions using keywords to help me train my model well, the name for this category is Academics Statistics it should be in code
