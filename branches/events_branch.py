@@ -1,10 +1,10 @@
 from anthropic import Anthropic
-from ..events.academics import get_academics_information
-from ..events.athletics import get_athletics_information
-from ..events.emp import get_emp_information
-from ..events.fut_stu import get_fut_stu_information
-from ..events.stu import get_stu_information
-from ..events.usu import get_usu_information
+from events.academics import get_academics_information
+from events.athletics import get_athletics_information
+from events.emp import get_emp_information
+from events.fut_stu import get_fut_stu_information
+from events.stu import get_stu_information
+from events.usu import get_usu_information
 import os
 from dotenv import load_dotenv
 

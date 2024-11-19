@@ -35,4 +35,3 @@ def get_athletics_information(rss_url):
 # Example usage:
 rss_url = "https://gomatadors.com/calendar.ashx/calendar.rss?sport_id=0&_=clyq7bqqp0001359tdrrnto8f"
 rss_info = get_athletics_information(rss_url)
-print(rss_info)

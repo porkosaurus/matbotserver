@@ -12,7 +12,7 @@ from branches.general_branch import answer_general_question
 from branches.courses_branch import answer_course_question
 from branches.events_branch import answer_events_question
 from branches.clubs_branch import answer_clubs_question
-from branches.sports_branch import answer_sports_question
+# from branches.sports_branch import answer_sports_question
 from branches.category_branch import answer_category_question
 import re
 from anthropic import Anthropic
@@ -162,7 +162,7 @@ def answer_query_model2(query, context=""):
     # elif response_text in ["2", "Degree Requirements"]:
     #     return answer_degree_question(query, context, cursor, connection, general_education)
     elif response_text in ["3", "sports"]:
-        return answer_sports_question(query, context)
+        return answer_events_question(query, context)
     elif response_text in ["4", "clubs"]:
         return answer_clubs_question(query, context)
     elif response_text in ["5", "events"]:
@@ -176,7 +176,8 @@ def answer_query_model2(query, context=""):
     elif response_text in ["9", "tutoring"]:
         return answer_general_question(query, context)
     elif response_text in research_files:
-        return answer_category_question(query, context, research_files[response_text])
+        print("this is found", response_text)
+        return answer_category_question(query, context, response_text)
     else:
         return "I'm sorry, I couldn't determine the context of your query. Please try again with more specific information."
 

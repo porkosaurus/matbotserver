@@ -129,7 +129,3 @@ def answer_clubs_question(question):
     final_response = create_advisor_response(question, club_details)
     
     return final_response
-
-# Example usage:
-response = answer_clubs_question("I'm passionate about climate change and LGBTQ+ rights. What clubs are involved in advocacy and activism on campus?")
-print(response)

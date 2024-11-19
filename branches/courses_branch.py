@@ -107,8 +107,11 @@ def answer_course_question(question, context, cursor, connection, general_educat
         # Use test departments instead of classifier
         top_department_names = test_departments
     else:
-        # Your existing classifier code
         top_departments = classify_query_top_3(question, model, tokenizer, label_encoder, device)
+        print("\nTop 3 Department Classifications:")
+        for department, confidence in top_departments:
+            print(f"Department: {department}, Confidence: {confidence:.2%}")
+
         top_department_names = [str(dept.item()) if isinstance(dept, np.str_) else str(dept) for dept, _ in top_departments]
 
     
@@ -377,30 +380,31 @@ GE F - Comparative Cultural Studies. AAS 100, AAS 340, AAS 345, AAS 360, AAS 362
 SPAN 220A, SPAN 220B, SPED 200SL, TH 325, URBS 350
 """
 model, label_encoder = load_model(model_path, device)
+# Check number of classes in both label encoder and model
+label_encoder_classes = len(label_encoder.classes_)
+model_classes = model.fc.out_features
+
+print(f"Number of classes in label encoder: {label_encoder_classes}")
+print(f"Number of classes in model: {model_classes}")
+print("\nAll class labels:")
+for i, label in enumerate(label_encoder.classes_):
+    print(f"{i+1}. {label}")
 tokenizer = RobertaTokenizer.from_pretrained('roberta-base')
 context = ""
-# Test with Economics only
-response1 = answer_course_question(
-    "Give me a schedule for a first year first semester Economics major, I do not want any classes on Fridays, and be brief, include dates and times and locations as well. DO NOT HAVE CLASSES OVERLAPPING",
-    context,
-    cursor,
-    connection,
-    general_education,
-    model,
-    tokenizer,
-    label_encoder,
-    device,
-)
+# # Test with Economics only
+# response1 = answer_course_question(
+#     "Give me a schedule for a first year first semester Economics major, I do not want any classes on Fridays, and be brief, include dates and times and locations as well. DO NOT HAVE CLASSES OVERLAPPING",
+#     context,
+#     cursor,
+#     connection,
+#     general_education,
+#     model,
+#     tokenizer,
+#     label_encoder,
+#     device,
+# )
 
 test_questions = [
-    # "Give me a schedule as a first year Economics student for this spring semester, include the location that the class is in so I can get there as well as dates and times for each course, and no classes on Friday, Give me specific GE's as well, I have not completed any GE's yet",
-    # "Classes to learn about time crystals?",
-    # "Classes to learn about Asian American History",
-    # "What are the prerequisites for COMP 182/L AND COMP 256/L?",
-    # "What are the prerequisites for the machine learning courses at CSUN?",
-    # "What are some of the date and times for ACCT 380?",
-    # "What are 400 level courses would you recommend, I am interested in machine learning",
-    # "I play the guitar, but I don't know what to study, recommend to me some courses"
     ]
 
 

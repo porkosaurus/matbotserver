@@ -79,4 +79,3 @@ def get_fut_stu_information(ics_url):
 # Example usage:
 ics_url = "https://news.csun.edu/events/category/student-outreach-recruitment/list/?ical=1"
 event_info = get_fut_stu_information(ics_url)
-print(event_info)

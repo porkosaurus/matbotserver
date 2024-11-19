@@ -79,4 +79,3 @@ def get_usu_information(ics_url):
 # Example usage:
 ics_url = "https://news.csun.edu/events/category/usu/list/?ical=1"
 event_info = get_usu_information(ics_url)
-print(event_info)

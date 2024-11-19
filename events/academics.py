@@ -52,4 +52,3 @@ def get_academics_information(ics_url):
 # Example usage:
 ics_url = "https://www.csun.edu/feeds/ics/events/53461/export.ics"
 event_info = get_academics_information(ics_url)
-print(event_info)
